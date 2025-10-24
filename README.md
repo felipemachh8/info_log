@@ -8,3 +8,6 @@ Para a pergunta 1, utilizamos a fórmula CONT.SES fazendo a contagem de cada est
 
 ## Atividade 3: Tabela e Dados NCM
 <img width="1101" height="620" alt="Captura de tela 2025-10-03 192651" src="https://github.com/user-attachments/assets/53657109-3ad8-4860-8bda-dfd6eb3d5e0e" />
+
+## Atividade 4: interpretação de dados no PowerBI
+<img width="1878" height="993" alt="Captura de tela 2025-10-17 201958" src="https://github.com/user-attachments/assets/1f358e94-be5c-4e07-8de6-12fa2886bebf" />

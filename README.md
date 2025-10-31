@@ -44,4 +44,6 @@ https://github.com/felipemachh8/info_log/blob/main/Regress%C3%A3o_Linear_do_Sorv
   <img width="1474" height="988" alt="Captura de tela 2025-10-31 201845" src="https://github.com/user-attachments/assets/6a6c82ba-cd35-4572-b0cf-49a130444287" />
   <img width="1242" height="897" alt="Captura de tela 2025-10-31 201906" src="https://github.com/user-attachments/assets/9bc6e628-e042-4348-827b-ea13af4e5cde" />
 
+  * 
+
 

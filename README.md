@@ -14,6 +14,8 @@ Para a pergunta 1, utilizamos a fórmula CONT.SES fazendo a contagem de cada est
 https://github.com/felipemachh8/info_log/blob/main/interpreta%C3%A7%C3%A3o%20Power%20Bi%20-%20Ana%20e%20Felipe.pbix
 <img width="1878" height="993" alt="Captura de tela 2025-10-17 201958" src="https://github.com/user-attachments/assets/1f358e94-be5c-4e07-8de6-12fa2886bebf" />
 
+
 ## Atividade 5: Interpretação de dados COMEX em PowerBI
 https://github.com/felipemachh8/info_log/blob/main/Mapa%20COMEX%20Ana%20e%20Felipe.pbix
 <img width="1917" height="1024" alt="Captura de tela 2025-10-30 221005" src="https://github.com/user-attachments/assets/ae15a540-aa0e-4013-b49b-0e41acb36469" />
+Nesta atividade, extraímos os dados de exportação do COMEX STAT de 2025 para fazer a interpretação utilizando mapas e gráficos no PowerBI.

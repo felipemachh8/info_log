@@ -11,3 +11,6 @@ Para a pergunta 1, utilizamos a fórmula CONT.SES fazendo a contagem de cada est
 
 ## Atividade 4: interpretação de dados no PowerBI
 <img width="1878" height="993" alt="Captura de tela 2025-10-17 201958" src="https://github.com/user-attachments/assets/1f358e94-be5c-4e07-8de6-12fa2886bebf" />
+
+## Atividade 5: Interpretação de dados COMEX em PowerBI
+<img width="1917" height="1024" alt="Captura de tela 2025-10-30 221005" src="https://github.com/user-attachments/assets/ae15a540-aa0e-4013-b49b-0e41acb36469" />

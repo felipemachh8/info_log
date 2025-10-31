@@ -35,3 +35,10 @@ https://github.com/felipemachh8/info_log/blob/main/Mapa%20COMEX%20Ana%20e%20Feli
 <img width="1917" height="1024" alt="Captura de tela 2025-10-30 221005" src="https://github.com/user-attachments/assets/ae15a540-aa0e-4013-b49b-0e41acb36469" />
 
 * Nesta atividade, extraímos os dados de exportação do COMEX STAT de 2025 para fazer a interpretação utilizando mapas e gráficos no PowerBI, indicando os 5 maiores estados exportadores.
+
+  ---
+
+  ## Atividade 6: Elaboração de Regressão Linear
+
+  <img width="1474" height="988" alt="Captura de tela 2025-10-31 201845" src="https://github.com/user-attachments/assets/6a6c82ba-cd35-4572-b0cf-49a130444287" />
+

@@ -27,4 +27,4 @@ Nesta atividade, extraímos os dados de exportação do COMEX STAT de 2025 para 
 ## Atividade 5: Interpretação de dados COMEX em PowerBI
 https://github.com/felipemachh8/info_log/blob/main/Mapa%20COMEX%20Ana%20e%20Felipe.pbix
 <img width="1917" height="1024" alt="Captura de tela 2025-10-30 221005" src="https://github.com/user-attachments/assets/ae15a540-aa0e-4013-b49b-0e41acb36469" />
-Nesta atividade, extraímos os dados de exportação do COMEX STAT de 2025 para fazer a interpretação utilizando mapas e gráficos no PowerBI.
+Nesta atividade, extraímos os dados de exportação do COMEX STAT de 2025 para fazer a interpretação utilizando mapas e gráficos no PowerBI, indicando os 5 maiores estados exportadores.

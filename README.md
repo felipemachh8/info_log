@@ -39,7 +39,7 @@ https://github.com/felipemachh8/info_log/blob/main/Mapa%20COMEX%20Ana%20e%20Feli
   ---
 
   ## Atividade 6: Elaboração de Regressão Linear
-
+https://github.com/felipemachh8/info_log/blob/main/Ice%20Cream.xlsx
   <img width="1474" height="988" alt="Captura de tela 2025-10-31 201845" src="https://github.com/user-attachments/assets/6a6c82ba-cd35-4572-b0cf-49a130444287" />
   <img width="1242" height="897" alt="Captura de tela 2025-10-31 201906" src="https://github.com/user-attachments/assets/9bc6e628-e042-4348-827b-ea13af4e5cde" />
 

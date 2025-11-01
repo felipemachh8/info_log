@@ -44,6 +44,6 @@ https://github.com/felipemachh8/info_log/blob/main/Regress%C3%A3o_Linear_do_Sorv
   <img width="1474" height="988" alt="Captura de tela 2025-10-31 201845" src="https://github.com/user-attachments/assets/6a6c82ba-cd35-4572-b0cf-49a130444287" />
   <img width="1242" height="897" alt="Captura de tela 2025-10-31 201906" src="https://github.com/user-attachments/assets/9bc6e628-e042-4348-827b-ea13af4e5cde" />
 
-  * 
+  * Nesta atividade, foi realizada uma análise de regressão linear para estudar a relação entre as vendas de sorvete (revenue) e a temperatura. Os dados foram obtidos no Kaggle e inicialmente abertos no Excel, onde foi criado um gráfico de dispersão. Em seguida, adicionou-se uma linha de tendência linear, exibindo também a equação da reta, representada pela função y=ax+b, em que a é o coeficiente angular e b o coeficiente linear. Posteriormente, a análise foi reproduzida no Google Colab, utilizando Inteligência Artificial para gerar o código em Python. O arquivo IceCream.csv foi lido em um DataFrame do Pandas, e a partir dele foi criado um gráfico de dispersão da temperatura pela receita. Por fim, foi desenvolvido um modelo de regressão linear para estimar as vendas de sorvete com base na variação da temperatura.
 
 

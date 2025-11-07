@@ -50,6 +50,6 @@ https://github.com/felipemachh8/info_log/blob/main/Regress%C3%A3o_Linear_do_Sorv
 
 ## Atividade 7: Regressão Linear - Salário x Experiência
 https://github.com/felipemachh8/info_log/blob/main/Recess%C3%A3o_Linear_do_Sal%C3%A1rio.ipynb
-
+https://github.com/felipemachh8/info_log/blob/main/Salary%20Data.xlsx
 <img width="1407" height="957" alt="Captura de tela 2025-11-06 222616" src="https://github.com/user-attachments/assets/20d88415-cec6-4285-941c-eb199f653d84" />
 <img width="1602" height="943" alt="Captura de tela 2025-11-06 222559" src="https://github.com/user-attachments/assets/dc367a6a-384d-4b23-9bc9-edd2305795aa" />

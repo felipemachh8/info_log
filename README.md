@@ -16,6 +16,7 @@ https://github.com/felipemachh8/info_log/blob/main/restaurante_0.zip
 ---
 
 ## Atividade 3: Tabela e Dados NCM
+https://github.com/felipemachh8/info_log/blob/main/NCM_codigos_dados.xlsx
 <img width="1101" height="620" alt="Captura de tela 2025-10-03 192651" src="https://github.com/user-attachments/assets/53657109-3ad8-4860-8bda-dfd6eb3d5e0e" />
 
 * Esta atividade consistia em extrair os códigos NCM para, com auxílio de filtros, personalizar uma tabela dinâmica em excel afim de identificar dados específicos.

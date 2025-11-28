@@ -63,6 +63,7 @@ Em seguida, o processo foi reproduzido no Google Colab, com o apoio de Inteligê
 
 ## Prova
 
+https://github.com/felipemachh8/info_log/blob/main/analise_prova.pbix
 https://github.com/felipemachh8/info_log/blob/main/processed_data.csv
 
 

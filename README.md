@@ -63,8 +63,13 @@ Em seguida, o processo foi reproduzido no Google Colab, com o apoio de Inteligê
 
 ## Prova
 
+* Dashboard
 https://github.com/felipemachh8/info_log/blob/main/analise_prova.pbix
+
+* CSV
 https://github.com/felipemachh8/info_log/blob/main/processed_data.csv
+
+* Vídeo compactado
 https://github.com/felipemachh8/info_log/blob/main/Sem%20t%C3%ADtulo%20-%20Power%20BI%20Desktop%202025-11-27%2022-15-00.zip
 
 
